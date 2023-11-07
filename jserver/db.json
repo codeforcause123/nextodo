@@ -2,15 +2,9 @@
   "todos": [
     {
       "id": 2,
-      "todo": "Memorize the fifty states and their capitals and recite",
-      "completed": false,
-      "userId": 48
-    },
-    {
-      "id": 3,
-      "todo": "Watch a classic movie Die Hard.",
+      "todo": "Memorize the fifty states and their capitals and recite.",
       "completed": true,
-      "userId": 4
+      "userId": 48
     },
     {
       "id": 4,
@@ -154,11 +148,6 @@
       "todo": "Make own LEGO creation ",
       "id": 29,
       "completed": true
-    },
-    {
-      "todo": "new todo",
-      "completed": false,
-      "id": 30
     }
   ]
 }

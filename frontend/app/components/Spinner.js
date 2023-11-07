@@ -18,8 +18,8 @@ const LoaderComp = () => {
         ariaLabel="progress-bar-loading"
         wrapperStyle={{}}
         wrapperClass="progress-bar-wrapper"
-        borderColor="lightblue"
-        barColor="orange"
+        borderColor="black"
+        barColor="#D2042D"
       />
     </CenterDiv>
   );

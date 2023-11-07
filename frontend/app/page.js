@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <main>
       <QueryClientProvider client={queryClient}>
-        <div>
+        <div className="bg-slate-300">
           <PageTitle />
           <Wrapper />
         </div>
